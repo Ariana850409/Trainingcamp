@@ -1,0 +1,15 @@
+body{
+    margin: 50px 100px;
+    background-color: rgb(232, 206, 142);
+    border-style: dashed;
+    border-color: rgb(85, 71, 52);
+}
+.main{
+    padding: 0px 10px 10px 10px;
+}
+.title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(85, 71, 52);
+}
